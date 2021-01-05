@@ -1,5 +1,5 @@
-WAV to Pitch Project
-====================
+Tuner CLI (previously WAV to Pitch Project)
+===========================================
 
 **Goal**: Determine the average frequency (Hz) and pitch (music note) in a given recording
 
